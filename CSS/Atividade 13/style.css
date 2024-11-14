@@ -1,0 +1,13 @@
+.classe{
+    width: 300px ;
+    height: 400px;
+    background-color: lightseagreen;
+}
+.texto{
+    background-color: lightpink;
+}
+span{
+    color: red;
+}
+
+

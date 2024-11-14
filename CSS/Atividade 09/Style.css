@@ -1,0 +1,13 @@
+div{
+    width: 100px;
+   height: 100px;
+   padding: 10px;
+   margin: 20px;
+   border: 10px black solid
+   
+
+}
+.Border-Box{
+    background-color: aqua;
+    box-sizing: border-box;
+}
